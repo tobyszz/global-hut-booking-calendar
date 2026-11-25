@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Seeker Adventure//Hut Booking Calendar//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:兮客旅行 · 徒步住宿开订
+BEGIN:VEVENT
+UID:20270105-refuge-de-la-flegere@seeker-adventure
+DTSTAMP:20261120T070000Z
+DTSTART:20270104T230100Z
+SUMMARY:TMB｜La Flégère 山屋 2027 开订
+DESCRIPTION:巴黎 2027-01-05 00:01；北京 2027-01-05 07:01。\n这是山
+ 屋官网开订时间，不是入住日期。\n请以山屋实际库存和
+ 条款为准。
+URL:https://www.refuge-de-la-flegere.com/en/booking/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
